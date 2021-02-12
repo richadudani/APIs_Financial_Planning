@@ -1,4 +1,4 @@
-# How do you like them apps?
+# Financial Planning and Analysis
 
 ![Financial Planner](Images/financial-planner.png)
 
