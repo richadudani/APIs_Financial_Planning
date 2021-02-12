@@ -18,9 +18,9 @@ In this assignment, I have completed the following tasks:
 
 ### Files
 
-* [Budget Starter Notebook](Starter_Code/account_summary.ipynb)
+* [Budget Analysis Notebook](Budget Analysis.ipynb)
 
-* [Retirement Planner Starter Notebook](Starter_Code/portfolio_planner.ipynb)
+* [Retirement Planner Notebook](Retirement Planner.ipynb)
 
 ---
 
